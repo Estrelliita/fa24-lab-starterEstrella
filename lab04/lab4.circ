@@ -177,9 +177,9 @@
     </comp>
     <comp lib="1" loc="(300,130)" name="AND Gate"/>
     <comp lib="1" loc="(300,200)" name="OR Gate"/>
-    <comp lib="1" loc="(200,640)" name="XOR Gate"/>
-      <a name="facing" val="south"/>
-    </comp>
+    <comp lib="1" loc="(200,640)" name="XOR Gate"> 
+     <a name="facing" val="south"/>
+    </comp> 
     <comp loc="(460,260)" name="XOR  Gate"/>
     <comp loc="(500,340)" name="oneBitFullAdder"/>
     <comp lib="2" loc="(480,410)" name="Multiplexer">
