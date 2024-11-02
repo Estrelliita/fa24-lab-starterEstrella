@@ -106,8 +106,8 @@
     <comp lib="1" loc="(450,260)" name="AND Gate"/>
     <comp lib="1" loc="(450,320)" name="AND Gate"/>
     <comp lib="1" loc="(610,290)" name="OR Gate"/>
-    <comp loc="(300,110)" name="XOR2"/>
-    <comp loc="(560,150)" name="XOR2"/>
+    <comp lib="1" loc="(300,110)" name="XOR Gate"/>
+    <comp lib="1" loc="(560,150)" name="XOR Gate"/>
     <wire from="(300,110)" to="(300,150)"/>
     <wire from="(300,150)" to="(320,150)"/>
     <wire from="(300,170)" to="(300,280)"/>
@@ -177,7 +177,7 @@
     </comp>
     <comp lib="1" loc="(300,130)" name="AND Gate"/>
     <comp lib="1" loc="(300,200)" name="OR Gate"/>
-    <comp loc="(200,640)" name="XOR Gate">
+    <comp lib="1" loc="(200,640)" name="XOR Gate"/>
       <a name="facing" val="south"/>
     </comp>
     <comp loc="(460,260)" name="XOR  Gate"/>
