@@ -1,5 +1,6 @@
 S type instruction: sw    x5, -8(x10) -> fe552c23
-![image](https://github.com/user-attachments/assets/4900efca-063e-4a00-8ece-4bb4d7c8af36)
+![image](https://github.com/user-attachments/assets/c730d777-ddf8-4b82-a4c4-802a968ab6f4)
+
 
 
 I type instruction: addi  x10, x10, 4 -> 00450513
